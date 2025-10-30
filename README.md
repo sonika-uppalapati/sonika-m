@@ -12,12 +12,12 @@
 👨‍💻 All of my Agile frameworks and methodologies are documented at [GitHub Portfolio](https://github.com/sonika-uppalapati?tab=repositories)  
 📝 I regularly share insights on **Agile best practices** and **Product Management** at [LinkedIn](https://www.linkedin.com/in/sonika-uppalapati/)  
 📄 Know about my Scrum Master & Product Owner experiences: [Resume](https://drive.google.com/file/d/1Fgox10yyrSPrTkaMPnLvyNGZVq1sbwVr/view?usp=sharing)  
-📫 How to reach me: LinkedIn - [@sonika-uppalapati](https://www.linkedin.com/in/sonika-uppalapati/) | Instagram - [@nightowl_vampgirl](https://instagram.com/nightowl_vampgirl)  
+📫 How to reach me: LinkedIn - [@sonika-uppalapati](https://www.linkedin.com/in/sonika-uppalapati/) | Instagram - [@nightowl_vampgirl](https://instagram.com/sonika_explores)  
 😄 Pronouns: she | her  
 ⚡ Fun fact: I facilitate daily standups while maintaining my fitness routine!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-uppalapati/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nightowl_vampgirl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-uppalapati/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonika_explores)
 
 ## 🛠️ Agile & Product Management Tech Stack:
 
